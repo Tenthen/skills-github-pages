@@ -1,0 +1,6 @@
+theme: minima
+title: DreamCoder's Hub
+author: Tenthen
+description: Exploring the web with code, creativity, and innovation. Follow my journey!
+show_excerpts: true
+permalink: /blog/:title
